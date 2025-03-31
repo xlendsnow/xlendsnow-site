@@ -1,1 +1,1 @@
-// Placeholder for actual homepage content
+// Placeholder for homepage content; real content is managed elsewhere.
