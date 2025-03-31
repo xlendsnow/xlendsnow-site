@@ -1,3 +1,3 @@
-# XLendsNow
+# XLendsNow – Production-Ready Lending Site
 
-This is the preview website for XLendsNow, a California-based personal lending company.
+Built with React, Vite, Tailwind-style layout, and DFPI compliance.
