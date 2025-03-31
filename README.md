@@ -1,3 +1,3 @@
-# XLendsNow – Production-Ready Lending Site
+# XLendsNow – Live Version
 
-Built with React, Vite, Tailwind-style layout, and DFPI compliance.
+Responsive lender website with full layout and branding.
