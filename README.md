@@ -1,3 +1,3 @@
-# XLendsNow Site
+# XLendsNow
 
-This is the updated staging website for XLendsNow, now including all required dependencies.
+This is the preview website for XLendsNow, a California-based personal lending company.
